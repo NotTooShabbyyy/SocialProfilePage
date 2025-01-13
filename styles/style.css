@@ -23,7 +23,7 @@
     align-items: center;
     row-gap: 14px;
     padding: 32px 24px 32px 24px;
-    border-radius: 9px;
+    border-radius: 10px;
 }
 
 #profile-img img {
@@ -52,7 +52,6 @@
     margin-top: 7px;
     margin-bottom: 8px;
     color: hsl(0, 0%, 100%);
-
 }
 
 .social-card-section button {
