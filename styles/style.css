@@ -70,3 +70,11 @@
     background-color: hsl(75, 94%, 57%);
     cursor: pointer;
 }
+
+/* Mobile code */
+
+@media screen and (max-width: 500px) {
+    .social-card-container {
+        width: 265px;
+    }
+}
